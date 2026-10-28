@@ -1,0 +1,26 @@
+# Build output
+build/
+.gradle/
+out/
+*.apk
+*.aab
+*.log
+
+# Machine-specific
+local.properties
+.idea/
+*.iml
+.DS_Store
+.kotlin/
+
+# Signing keys - never commit these
+*.jks
+*.keystore
+keystore.properties
+
+# Personal settings and overrides (see tv.conf.example and personal-example/)
+tv.conf
+personal/
+
+# Inter font files are downloaded by build-and-install.sh
+app/src/main/assets/fonts/

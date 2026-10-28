@@ -1,0 +1,5 @@
+# Copy this file to tv.conf and fill in your TV's address. tv.conf stays on your computer (it's in .gitignore).
+# Find the IP on the TV: Settings > Network & Internet > (your Wi-Fi) > IP address
+TV=192.168.1.50
+# Where build output, logs and screenshots go (default: ./out)
+#OUT=./out

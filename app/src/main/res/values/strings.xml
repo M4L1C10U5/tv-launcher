@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Home</string>
+    <string name="keymap_name">Home remote buttons</string>
+    <string name="keymap_desc">Lets Home make remote buttons (like Prime Video) open the app or input you choose.</string>
+    <string name="saver_name">Movie posters</string>
+</resources>
